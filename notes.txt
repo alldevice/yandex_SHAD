@@ -1,0 +1,61 @@
+документация:
+- pandas 0.23.4 - http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html
+- Working with missing data - http://pandas.pydata.org/pandas-docs/stable/missing_data.html
+- pandas.DataFrame.dropna - http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.dropna.html#pandas.DataFrame.dropna
+
+
+
+Математика:
+    - Таблица_математических_символов - https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2
+    - норма вектора - https://matworld.ru/vector-norm.php
+
+Вершины решающего дерева (алгоритм ID3):
+- корневая (корень)
+- внутренняя
+- терминальная (лист)
+
+Жадный алгоритм - важность результата локальных решений выше, чем глобальных
+
+Усечение дерева (pruning). Алгоритм C4.5
+
+Кусочно-заданная функция — функция, определённая на множестве вещественных чисел, заданная на каждом из интервалов, составляющих область определения, отдельной формулой.
+
+В листьях этого дерева записаны числа-предсказания. 
+
+Q - функционал качества
+Лекции по алгоритмам восстановления регрессии - http://www.ccas.ru/voron/download/Regression.pdf
+
+- Алгоритм ближайшего соседа - https://basegroup.ru/community/articles/knn
+- about crossvalidation - https://stackoverflow.com/questions/40815008/how-to-do-n-cross-validation-in-knn-python-sklearn
+
+
+-долю верных ответов (accuracy)
+-правильности (accuracy) и точности (precision).
+-Смещение (bias) характеризует правильность (accuracy) оценки. Дисперсия (variance) характеризует точность (precision) оценки
+
+https://habr.com/ru/post/337722/ - много полезных ссылок
+- методы оценки - http://datareview.info/article/sravnenie-razlichnyih-vidov-kross-validatsii/
+- хорошо о CV - https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+
+об SG: Обзор градиентных методов в задачах математической оптимизации - https://habr.com/ru/post/413853/
+
+
+Классификаторы:
+    - линейные
+        - градиентный спуск
+        - линейная регрессия
+        - логистическая регрессия
+    - метрические
+        - kNN
+
+
+- L1 и L2 регуляризация - https://craftappmobile.com/l1-vs-l2-regularization/
+- категориальные признаки - https://dyakonov.org/2016/08/03/python-%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BA%D0%B8/
+
+- overfiting and underfiting - https://machinelearningmastery.com/diagnose-overfitting-underfitting-lstm-models/
+
+!! Двумерные случайные величины - http://www.mathtask.ru/0033-two-dimensional-random-variables.php
+
+Логистическая регрессия и классификация - https://habr.com/ru/company/ods/blog/323890/
+
+решённый хорошо курс от ВШЭ - https://github.com/tyz910/hse-shad-ml

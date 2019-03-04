@@ -1,0 +1,6 @@
+interesting commands:
+    
+list('ABC')
+Out[84]: ['A', 'B', 'C']
+    
+data1.drop('Sex', axis=1) - delete certain column
